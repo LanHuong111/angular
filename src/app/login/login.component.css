@@ -1,0 +1,31 @@
+ h2{
+    padding: 20px ;
+    color: #e41595;
+    /* text-align:center; */
+}
+.big{
+    text-align: center;
+}
+/* .btn {
+  width: 100%;
+  padding: 10px;
+} */
+.input{
+    width: 400px;
+}
+
+
+.custom-btn {
+    width: 50%;
+    padding: 10px;
+    background-color: #e41595; /* Màu nền gốc */
+    border: none;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    
+  }
+  
+  .custom-btn:hover {
+    background-color: #f88fd0; /* Màu hồng khi hover */
+  }
